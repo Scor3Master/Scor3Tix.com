@@ -1,4 +1,3 @@
-import logo from './img/logo.svg';
 import ticket from './img/golden_ticket.jpeg';
 import './App.css';
 
